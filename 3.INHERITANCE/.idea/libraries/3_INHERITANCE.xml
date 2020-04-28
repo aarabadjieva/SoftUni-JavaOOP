@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="3.INHERITANCE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/3.INHERITANCE/CatAndDog.zip!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/3.INHERITANCE/Puppy.zip!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/3.INHERITANCE/RandomArrayList.zip!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/3.INHERITANCE/Dog.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
